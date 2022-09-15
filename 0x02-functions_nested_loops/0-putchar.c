@@ -1,4 +1,4 @@
-vim main.h#include "main.h"
+#include "main.h"
 
 /**
  * main - print putchar
